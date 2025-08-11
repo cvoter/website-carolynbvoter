@@ -1,0 +1,1 @@
+Simple index.html file that redirects visitors to carolynbvoter.com to waterecosystemsandpeople.com, which is what I am currently using as my main domain. See the website-research-group repository for the content of my actual website.
